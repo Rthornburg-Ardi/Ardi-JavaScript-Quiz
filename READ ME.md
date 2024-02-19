@@ -17,7 +17,7 @@ I learned how to take different concepts of JavaScript and combine them to creat
 
 The app should run through any browser through the link provided.
 GitHub repository: https://github.com/Rthornburg-Ardi/Ardi-JavaScript-Quiz
-Hosted page: 
+Hosted page: https://rthornburg-ardi.github.io/Ardi-JavaScript-Quiz/
 
 ## Usage
 
